@@ -1,5 +1,5 @@
 {
-  "name": "str",
+  "name": "@jimuelpalaca/str",
   "version": "0.0.1",
   "description": "A string helper class for nodejs",
   "main": "dist/index.js",
