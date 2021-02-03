@@ -4,6 +4,7 @@
   "description": "A string helper class for nodejs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "keywords": ["String Helper", "String", "Lightweight"],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
